@@ -4,10 +4,7 @@ public class life {
 
 	public static void main(String[] life) {
 
-	}
-
-	void kk(){
-	//TODO
+		System.out.println("ss");
 	}
 	
 	
